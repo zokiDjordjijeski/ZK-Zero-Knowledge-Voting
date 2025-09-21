@@ -1,0 +1,39 @@
+# === GLOBAL (за root) ===
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/coverage
+/build
+/node_modules
+/.pnp
+.pnp.js
+
+# === FRONTEND ===
+frontend/node_modules/
+frontend/build/
+frontend/.env*
+frontend/coverage/
+frontend/.pnp
+frontend/pnp.js
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.DS_Store
+
+# === BACKEND ===
+backend/node_modules/
+backend/votes.json
+backend/*.zkey
+backend/*.wasm
+backend/*.r1cs
+backend/*.sym
+backend/*.ptau
+backend/*.json
+backend/.env*
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/.DS_Store
