@@ -90,7 +90,3 @@ MIT.
 
 ## Disclaimer
 Educational prototype. Not production-ready.
-
---------------------------------------------------
-
-Need an even lighter version or localized translation? Just ask.
